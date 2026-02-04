@@ -34,15 +34,10 @@ pip install tensorflow==2.8.0 numpy==1.23.5 matplotlib==3.9.4 protobuf==3.20.3
 ## 🚀 Usage
 
 1. **Define and Convert:**
-Run the script to train the base model and convert it with the necessary signatures (`train`, `infer`, `save`, `restore`).
-```bash
-python <your_script_name>.py
-
-```
-
+Run the jypyter notebook script to train the base model and convert it.
 
 2. **Output:**
-The execution will generate a `.tflite` model file ready for deployment on Android or Linux-based edge devices.
+The execution will generate a model file ready for deployment on Android  edge devices.
 
 ## 🔗 References
 
