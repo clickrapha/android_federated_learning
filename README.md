@@ -1,2 +1,2 @@
-# android_federated_learning
+# Android Federated Learning
 
